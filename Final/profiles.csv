@@ -1,0 +1,7 @@
+adminID, firstName, lastName, address, phoneNumber, income, status, use, model, year, type, method
+PA1,Vlaho,Munira,32 Brown Blvd,8002341623,40000.0,Active,Personal,Toyota,2013,sedan,used
+PA2,Velibor,Marloes,76 Little Street,8002338912,60000.0,Inactive,Business,Nissan,2013,sport,certified pre-owned
+PA2,Zeus,Payam,10 Needmore Street,8023341623,100000.0,Active,Both,Lexus,2019,other,other
+PA1,Floro,Mirinda,6517 Nearest Street,8126125423,80000.0,Inactive,Business,Honda,2017,hatchback,used
+PA2,Roosevelt,Intan,1001 Brown Ave,8126742233,60000.0,Inactive,Both,Ford,2018,sedan,other
+PA1,Bob,Johnson,124246235436,8605970839,50000.0,Active,Personal,Toyota,2019,Sedan,New
